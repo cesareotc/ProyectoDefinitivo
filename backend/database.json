@@ -1,0 +1,16 @@
+{
+  "motorbikes": [
+    {
+      "id": 1,
+      "brand": "Suzuki",
+      "model": "Gladiuis",
+      "engine": "650cc"
+    },
+    {
+      "id": 2,
+      "brand": "Honda",
+      "model": "VFR750",
+      "engine": "750cc"
+    }
+  ]
+}
